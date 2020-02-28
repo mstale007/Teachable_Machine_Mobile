@@ -1,7 +1,7 @@
 # Teachable Machine Mobile
 Mobile version of Teachable machine, 
 
-[You can download the app from here](https://drive.google.com/file/d/17_ZnhH7BS9U8lktf9kpzR4e8hwB5_qp3/view?usp=sharing)
+[You can download the app from here](https://github.com/mstale007/Teachable_Machine_Mobile/releases/tag/v1.0)
 
 Before we begin:
 1) Train your model on [Teachable Machine web app](https://teachablemachine.withgoogle.com/). 
